@@ -8,6 +8,10 @@ Pages that can be used as details pages for a [Silverstripe](http://www.silverst
 
 * [silverstripe-lumberjack](https://github.com/micmania1/silverstripe-lumberjack)
 
+#### Installation
+
+    composer require micmania1/silverstripe-lumberjack
+
 Add this to the config.yml to enable Lumberjack
 
     NewsHolder:
